@@ -1,2 +1,3 @@
 # Project
-Netflix and Amazon Comparison
+Optimizing Content Strategy through
+Unsupervised Machine Learning - Netflix & Amazon Prime
